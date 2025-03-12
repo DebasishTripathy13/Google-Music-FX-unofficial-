@@ -26,7 +26,7 @@ This repository focuses on implementing the Music FX API, which is currently acc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/debasishtripathy13/Google-Music-FX-unofficial-.git
+   git clone https://github.com/DebasishTripathy13/Google-Music-FX-unofficial-.git
    cd Google-Music-FX-unofficial-
    ```
 
