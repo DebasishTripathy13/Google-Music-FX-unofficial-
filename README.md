@@ -1,4 +1,14 @@
+<p align="center">
+  <img src="banner-musicfx.png" alt="Google Music FX (Unofficial)" width="100%">
+</p>
+
 # Google Music FX (Unofficial)
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue?style=flat-square">
+  <img alt="Stars" src="https://img.shields.io/github/stars/DebasishTripathy13/Google-Music-FX-unofficial-?style=flat-square&color=yellow">
+</p>
 
 An unofficial Python client for the Google Music FX API that allows you to generate AI-powered music from text prompts.
 
